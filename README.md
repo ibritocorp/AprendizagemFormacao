@@ -8,7 +8,7 @@ O objetivo principal deste repositório é documentar minha jornada de aprendiza
 
 ## Estrutura do Repositório
 
-- 📂 [Inteligência Artificial]: Espaço destinado a estudos sobre IAs (incluindo as Generativas), NLP, NLU, etc.
+- 📂 [IA]: Espaço destinado a estudos sobre Inteligência Artificial (incluindo IAs Generativas), NLP, NLU, etc.
 - 📂 [Python]: Espaço destinado a estudos da respectiva linguagem.
 - ...
 
