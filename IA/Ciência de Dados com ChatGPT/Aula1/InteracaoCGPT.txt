@@ -1,0 +1,19 @@
+### Informações sobre a base de dados
+Sex: Representa o gênero do passageiro, onde 1 é o sexo masculino e 0 é o sexo feminino
+Age: Idade do passageiro em anos
+Pclass: Classe do bilhete do passageiro (1ª, 2ª e 3ª Classe)
+Survived: Indica se o passageiro sobreviveu, onde 1 significa que sobreviveu e 0 para não sobreviveu
+
+
+### Interações com o ChatGPT
+    1. Boa noite, ChatGPT. Por favor, crie um código em Python que leia um csv usando a biblioteca pandas. O caminho do arquivo a ser lido é "C:\Users\itilo\Downloads\Ciência de Dados com ChatGPT\CONJUNTO DE DADOS PARA EXPERIÊNCIAS\titanic-preprocessado.xlsx".
+
+    2. Acrescente um código para a criação de um gráfico de histograma do sexo, onde homens será em azul e mulheres em vermelho
+
+    3. Acrescente um código para a criação de um gráfico que mostre a quantidade de pessoas por "survived". Sobreviveu na cor "verde" e não sobreviveu na cor "vermelho"
+    
+    4. Acrescente ao código para que plote a indicação de sobrevivência por sexo
+
+    5. Acrescente ao código a criação de um gráfico de pizza para mostrar as classes (pclass)
+
+    6. Crie um código que gere um gráfico do tipo histograma mostrando a quantidade de pessoas por classe discriminando por sexo
