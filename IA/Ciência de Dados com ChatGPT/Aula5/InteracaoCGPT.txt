@@ -1,0 +1,13 @@
+### Conceito
+    Principal Component Analisys
+        Método para dar ênfase aos dados relamente relevantes
+            * Reduzir a dimensionalidade de conjuntos de dados grandes
+
+### Interações
+    1. Aplique a transformação PCA aos dados enviados
+
+    2. Aplique 
+    3. 
+
+### Dicas
+    Uso do Orange Canvas (Aprofundar o conhecimento sobre a ferramenta)
