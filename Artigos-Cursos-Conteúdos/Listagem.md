@@ -1,6 +1,6 @@
 # Artigos, Conteúdos e Cursos
 
-Nesta lista, vou manter o controle dos artigos, cursos e conteúdos que eu encontro e considero importantes.
+Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encontro e considero importantes.
 
 ## Artigos
 
