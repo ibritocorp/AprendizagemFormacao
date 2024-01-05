@@ -20,11 +20,11 @@ Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encon
 
 ### IA
 
+- [Design Centrado no Usuário](https://www.arara.school/curso-online-design-centrado-no-usuario) - Descubra como trabalhar com conceitos relacionados ao Design Centrado no Usuário em diversos tipos de interface. O curso apresenta além da história, boas práticas, metodologias e frameworks que otimizam a experiência de todos os stakeholders envolvidos no projeto, priorizando sempre a centralização dos usuários. - (Iniciado)
+
 - [Minicurso - CHAT GPT](https://www.youtube.com/playlist?list=PLF8aBxuL7OGGFv5SKAn3xvGHRQUfjoBxR) - Curso básico e introdutório com o Ítalo Diego Teotônio sobre o ChatGPT e algumas aplicações da IA Generativa em Análise de Dados. - (Pendente)
 
 - [Minicursos - Comunidade Sétimo Reino IA Brasil](https://www.youtube.com/@comunidadesetimoreinoiabra8608/streams) - Lives com conteúdos sobre IAs Generativas. (Pendente)
-
-- [Design Centrado no Usuário](https://www.arara.school/curso-online-design-centrado-no-usuario) - Descubra como trabalhar com conceitos relacionados ao Design Centrado no Usuário em diversos tipos de interface. O curso apresenta além da história, boas práticas, metodologias e frameworks que otimizam a experiência de todos os stakeholders envolvidos no projeto, priorizando sempre a centralização dos usuários. - (Pendente)
 
 - [Simplificando a Inteligência Artificial Generativa com a AWS e a Trybe](https://www.youtube.com/watch?v=IdVmqpBkRlk) - Parceria entre a Trybe e a AWS para transmissão da live sobre a IA Generativa da AWS. (Pendente)
 
