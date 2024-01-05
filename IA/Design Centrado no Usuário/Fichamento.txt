@@ -1,0 +1,121 @@
+*** Aula 1
+
+** Definição
+    User-Centered Design (UCD) ou Design Centrado no Usuário (DCU)
+    * Traduzido mais adequadamente como "Design Centrado na Pessoa Usuária".
+        Conceito criado por Don Norman em 1988 que se popularizou posteriormente no lançamento do livro "O Design do dia a dia".
+        O design centrado no usuário é um processo que coloca as necessidades, desejos e limitações dos usuários no centro das decisões em todo o desenvolvimento de um produto ou serviço, desde a concepção até o lançamento.
+
+*** Aula 2
+
+** Terminologia Relacionada
+    Relação entre usabilidade, Interação Humano-Computador (IHC), Design Centrado no Usuário (DCU) e Experiência de Usuário (UX)
+
+** Movimento da Linguagem Inclusiva
+    Adaptação do "Manual de Comunicação da Secretaria de Comunicação do Senado Federal"
+
+** Os problemas do termo "Usuário"
+    Exclusão de pessoas, grupos, normalização do "usuário médio", falta de definição aprofundada (pesquisa) sobre a persona/público-alvo/comunidade
+        Design Centrado no Usuário
+        Design Centrado na Usuária
+        Design Centrado no Humano
+        Design Centrado na Humana
+
+** O que não é DCU
+    * Somente usabilidade
+        1. É o ponto principal;
+        2. É o processo que conta;
+        3. Não somente o teste de usabilidade;
+        4. Modelar sem centralizar os porquês do processo das usuárias leva a produtos ruins.
+    * Subjetivo
+        Adoção de metodologia, métodos e técnicas fundamentados em conhecimento científico, longe de ser uma forma de raciocínio subjetiva ou uma conjectura.
+    * Apenas design
+        Processo holístico, a participação do todo de forma a atender todas as necessidades.
+    * Perda de tempo e/ou dinheito
+        A falta do DCU acarreta em perda de tempo e dinheiro.
+    * Relatório de BUG
+        A depender dos requisitos funcionais e não funcionais.
+    * Distração
+        Adoção de possíveis features desnecessárias.
+
+** O que é DCU
+    Processo (Edu Agni) / Metodologia (Lowdermilk) / Entender os objetivos dos usuários para que o produto em desenvolvimento se adapte e satisfaça os interesses (aelaschool)
+        Design Centrado na Pessoa Usuária é uma forma de conceber o design, aplicado de forma iterativa que viabiliza processos embasados metodologicamente. Fazendo assim com que as necessidades, desejos e percepções das pessoas envolvidas sejam levadas para o centro da produção de produtos e serviços digitais de forma empática e interativa.
+
+** Marcos históricos da UX, Psicologia, Ergonomia e DCU
+    1760-1840: Revolução Industrial
+    1857: Criação da Ergonomia por Wojciech Jastrzebowski
+    1879: Criação do primeiro lab. de psicologia por Wilhelm Wundt
+    1980-1988: Publicação de livros por Don Norman
+        * User-Centered System Design: New Perspectives on Human Computer Interaction
+        * The Psychology of Everyday Things
+    1990: Popularização do termo UX por Don Norman
+    1995: 10 Heurísticas de Nielsen por Jakob Nielsen
+    2013: Livro de Lowdermilk: User-Centered Design
+    2016-2021: Normas ABNT NBR ISO 9241-XXXX
+
+** Benefícios e Importância
+    Para Sociedade, Empresas e Profissionais
+        * Vide pág 27 slide aula 2
+
+*** Aula 3
+
+** Resolver a raiz do problema
+    Mundo Ideal
+        Time de Negócios -> Designers e Profissionais -> Prototipação -> Entrega Alinhada
+    Os problemas...
+        Acréscimo de etapas, repetições e retornos até a validação e entrega final
+    
+    * Falhas de comunicação do processo (aelaschool)
+        1. Ambiente de trabalho desalinhado e sem foco de projeto;
+        2. Utilização de ternologias complicadas para os usuários;
+        3. Falta de interação entre sistemas de tecnologia e as personas;
+        4. Falta de comunicação total entre o trabalho, a tecnologia e as personas.
+    
+    * Possíveis soluções ou iniciativas
+        Método dos 5 Porquês:
+            Definição do problemas -> Por que está acontecendo? -> Por que disso? (5 porquês)            
+                Contexto simulado de uma pessoa responsável por uma loja de roupas:
+                    Minhas vendas caíram -> Porque todo mundo compra em shopping -> O ambiente é melhor -> Tem mais coisas para fazer além de comprar roupas -> Tem estrutura -> É uma rede de loja
+        
+        O famoso básico...
+            * Pesquisa de campo (Pesquisas qualitativas)
+                Majoritariamente internet
+                    Netnografia é uma forma especializada de etnografia e utiliza comunicações mediadas por computador como fonte de dados para chegar à compreensão e à representação etnográfica de um fenômeno cultural na Internet. Sua abordagem é adaptada para estudar fóruns, grupos de notícias, blogs, redes sociais, etc...
+            * Entrevistas (Pesquisas qualitativas / híbridas)
+                Tipos:
+                    Aberta
+                        Roteiro com contexto definido para conduzir a entrevista e obter respostas elaboradas e detalhadas com a mínima interferência do entrevistador.
+                    Fechada
+                        Elaboradas mediante questionário totalmente estruturado, previamente formulado para não fugir delas.
+                    Híbrida / Mista
+                        Utilização dos dois tipos descritos anteriormente.
+
+** Foco nas pessoas
+    * Personas
+        Personificação do público ao qual sua empresa se direciona;
+        Contém uma série de peculiaridades;
+        Apresentam as principais características e comportamentos dos seus compradores;
+        Aqueles que devem enxergar seus produtos e serviços como a soluçã ideal para um problema ou necessidade existente.
+        * Proto-personas
+            Elaboradas através de análises de SAC, comentários de NPS, desk research, etc...
+
+** Abordagem sistêmica
+    Squads / Equipes / Setores / Empresas como Sistemas
+        Atuação para todos os envolvidos
+            Design Thinking
+                Empatia -> Definição -> Ideiação -> Prototipação -> Testes
+            
+            Lean UX
+                Conceituação -> Prototipação -> Validação Interna -> Testes Externos - > Aprendizado a partir do comportamento -> Interação
+                    UX Magra
+                    Menos entregáveis, mais qualidade
+
+** Realizar testes rápidos e contínuos
+    * Levantamento, testes e validação com o todo
+        1. Levantamento
+            Método / Metodologias / Instrumentos de pesquisa
+        2. Testes
+            Testes do próprio profissional da informação / Equipe de QA / Stakeholders
+        3. Validações
+            Stakeholders (cliente) / Pessoas Usuárias Finais
