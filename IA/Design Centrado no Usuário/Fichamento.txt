@@ -127,4 +127,67 @@
     ** Desk Research
         Analisar dados já disponíveis no mercado (pesquisa secundária)
 
+        * Não é Desk Research
+            Não se trata de uma pesquisa pequena e sem importência
+                - Não são só prints de tele de concorrentes;
+                - Não é somente coleta de dados e informações;
+                - Não é uma pesquisa trivial;
+                - Não é um PPT cheio de informações avulsas;
+                - Não é só estudar sobre produto, serviço ou área de mercado.
+            
+            Desk Research é uma entrega capaz de ser precursora de produtos incríveis ou de grandes fracassos.
         
+        * Como dazer Desk Research
+            1º - Defina um objetivo principal
+            Objetivo é verbo, é ação, por isso também use verbos para escrever seus objetivos, eles podem ser do tipo: exploratórios, descritivos e explicativos.
+                * Objetivo principal: Explorar o mercado automobilístico brasileiro;
+                1º - Objetivo específico: Mapear os sites do mercado automobilístico;
+                2º - Identificar modelos de negócios do mercado automobilístico brasileiro;
+                3º Objetivo específico: Traçar diferenciais competitivos do mercado automobilístico brasileiro.
+            
+            2º - Mapeie as possíveis fontes de informação
+                * Pesquisas internas;
+                * Pesquisas externas;
+                * Bibliotecas;
+                * Arquivos;
+                * Museus;
+                * Instituto Brasileiro de Geografia e Estatística (IBGE);
+                * Dados governamentais, etc...
+            
+            3º - Realize a pesquisa
+                1) Estabeleça prazos: Cada objetivo um período;
+                2) Estude as fontes de informação:
+                    * Comece por temas chave e faça priorizações;
+                    * Hierarquize as informações com base nos seus estudos.
+                3) Identifique e reúna os dados e informações: fichamento, resumos, planilhas e softwares de apresentação gráfica.
+            
+            4º - Analise e apresente os dados coletados
+                1) Realize o crizamento das informações estudadas;
+                2) Pense e escreva paralelos entre as informações;
+                3) Compare os seus achados com os seus objetivos de pesquisa: ele atenderam os seus objetivos? Por que sim ou por que não? Será preciso realizar outra pesquisa?
+
+        * Entrevista
+        Estudo de caso da UFMG
+            * Escolha das pessoas participantes
+                * Estudantes
+                * Pessoas servidoras
+            
+            * Adoção do tipo semi-estruturadas / híbridas
+                Condução:
+                    1) Se apresente;
+                    2) Agradeça;
+                    3) Esclareça os seus propósitos;
+                    4) Declare que críticas são bem-vindas;
+                    5) Explique a estrutura do seu roteiro;
+                    6) Peça permissão.
+        
+        * Resultados e organização
+            * Benefícios
+                - Maior clareza sobre os produtos que podem ser oferecidos;
+                - Maior clareza sobre os serviços que podem ser oferecidos;
+                - Boas práticas de acessibilidade;
+                - Formas variadas de mostrar como os produtos podem ser exibidos graficamente para as pessoas usuárias;
+                - Entendimento da documentação institucional;
+                - Melhora na compreensão de como solicitar conteúdos;
+                - Base para a criação de um planos de trabalho institucional;
+                - Entendimento de questões políticas ligadas à instituição, etc...
