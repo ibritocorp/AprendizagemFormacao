@@ -119,3 +119,12 @@
             Testes do próprio profissional da informação / Equipe de QA / Stakeholders
         3. Validações
             Stakeholders (cliente) / Pessoas Usuárias Finais
+
+*** Aula 4
+    ** Abordagem Sistêmica (Aula 3)
+        Colocar-se no lugar do outro
+    
+    ** Desk Research
+        Analisar dados já disponíveis no mercado (pesquisa secundária)
+
+        
