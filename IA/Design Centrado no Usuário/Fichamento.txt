@@ -191,3 +191,5 @@
                 - Melhora na compreensão de como solicitar conteúdos;
                 - Base para a criação de um planos de trabalho institucional;
                 - Entendimento de questões políticas ligadas à instituição, etc...
+
+*** Aula 5
