@@ -39,3 +39,11 @@ Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encon
 - [Minicurso de Power BI](https://www.youtube.com/playlist?list=PLF8aBxuL7OGHmQ9OJjK7yntJMqzrc1htI) - Minicurso introdutório e com exemplos por Ítalo Diego Teotônio. (Pendente)
 
 - [Curso Gratuito de Power BI](https://www.youtube.com/playlist?list=PLF8aBxuL7OGHDzD254O6DPPfgurYVX5VF) - Quatro lives com instruções e construção de projeto Power BI por Ítalo Diego Teotônio. (Pendente)
+
+### Produto
+
+- [Design de Serviço](https://conteudo.cursospm3.com.br/library) - Curso gratuito de Design de Serviço da PM3. (Pendente)
+
+- [Métricas de Negócios Digitais](https://conteudo.cursospm3.com.br/library) - Curso gratuito sobre Métricas de Negócios Digitais da PM3. (Pendente)
+
+- [Storytelling para Negócios](https://conteudo.cursospm3.com.br/library) - Curso gratuito sobre Storytelling para Negócios da PM3. (Pendente)
