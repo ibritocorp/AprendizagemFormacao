@@ -32,6 +32,8 @@ Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encon
 
 - [Os Avanços em Inteligência Artificial](https://videohub.oracle.com/media/t/1_4u23r2m6/158145621?elq_mid=250725&sh=18250918071224120911140131102628&cmid=WWMK230719P00060C00004) - Evento Oracle focado em Inteligência Artificial (IA). Últimas inovações em IA e demonstrações práticas em estudos de caso inspiradores. (Pendente)
 
+- [Introdução a IA e Apps Conversacionais](https://academy.blip.ai/course/ia-apps-conversacionais) - Fique por dentro dos principais fundamentos dos apps conversacionais e do contato inteligente, explorando suas características, funcionalidades e como eles estão revolucionando a comunicação entre empresas e clientes. Descubra também a relação entre chatbots e apps conversacionais, a importância da IA conversacional e os benefícios de utilizar canais de mensageria na interação com os usuários. (Pendente)
+
 ### Ciência de Dados
 
 - [Conhecendo o Power BI](https://www.youtube.com/playlist?list=PLF8aBxuL7OGGgro-cm2CCwuW1Khj6xpoz) - Playlist curta e explicativa sobre o básico do Power BI por Ítalo Diego Teotônio. (Pendente)
