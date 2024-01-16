@@ -1,0 +1,38 @@
+Trabalho Aula 
+
+1) Transformação de Dados
+	Transformar dados categóricos para serem enxergados por algoritmos de machine learning (one-hot encoding)
+	
+2) Normalização dos dados numéricos (Feature Scaling "Min e Max")
+
+3) Liste pra mim a primeira linha/listagem de dados entre 0 e 1 e não pode ser diferente disso
+
+4) Salvar a base de dados e fazer o download
+
+5) Fazer o Pairplot (Faça uma plotagem do PAIRPLOT da biblioteca SEABORN do dataframe iris-custer)
+
+6) Achar o K-ótimo com o método do cotovelo
+
+7) Fazer a clusterização
+
+8) Salvar a base de dados
+
+9) Fazer o Pairplot (Faça uma plotagem do PAIRPLOT da biblioteca SEABORN do dataframe iris-custer)
+
+
+
+
+Orientações para o segundo trabalho do curso
+
+1. Realizar a transformação dos dados
+1.1 Transformar dados categóricos para serem enxergados por algoritmos de machine learning (one-hot encoding)
+
+2. Realizar a normalização das colunas numéricas (feature scaling: min max) (https://www.youtube.com/watch?v=-iKmDysRlJY)
+
+3. Realizar o pairplot da base de dados [prompt: Faça uma plotagem do PAIRPLOT da biblioteca SEABORN do dataframe]
+
+4. Identificar qual é o “K” ótimo utilizando o método do cotovelo [prompt: agora aplique o "método do colovelo" para encontrar o k ótimo para esse novo dataframe "iris-cluster"]
+
+5. Realizar a clusterização [prompt: Realize a clusterização da base de dados "nome_do_seu_dataframe" com o k=3. Salve os "clusters" de cada linha de dados na coluna "cluster" no próprio dataframe "nome_do_seu_dataframe". Use o algoritmo K-means. Mostre as 5 primeiras linhas do dataframe "nome_do_seu_dataframe".]
+
+6. Enviar duas imagens: pairplot sem o cluster e com o cluster
