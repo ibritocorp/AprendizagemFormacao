@@ -1,0 +1,36 @@
+### Variáveis Compostas ###
+
+Tuplas, listas e dicionários
+    * Strings são consideradas variáveis compostas.
+
+## Dicionários
+
+    * Representados por chaves "{}" ou dict().
+        dados = dict()
+        dados = {}
+    
+    Exemplos:
+
+        pessoas = {'nome': 'Pedro', 'idade': 25}
+        print(dados['nome']) -> Pedro
+
+        pessoas['sexo'] = 'M'
+    
+    * Comando append não funciona em dicionários.
+
+    * A estrutura de dicionários é dividida em 03 (três) partes:
+        filmes = {'titulo': 'Star Wars', 'ano': 1977, 'diretor': 'George Lucas'}
+        print(filmes.values())
+            * Exibe apenas os valores contidos nas chaves (keys), nesse caso: ['Star Wars', 1977, 'George Lucas']
+        print(filmes.keys())
+            * Exibe apenas os nomes das chaves (keys) existentes, nesse caso: ['titulo', 'ano', 'diretor']
+        print(filmes.items())
+            * Exibe o dicionário na íntegra (keys + values): [('titulo', 'Star Wars'), ('ano', 1977), ('diretor', 'George Lucas')]
+        
+        for k, v in filmes.items():
+            print(f'O {k} é {v}')
+
+    * Para deletar uma chave e seu valor o comando é o mesmo, o "del":
+        del filmes['ano']
+    
+    * Em dicionários não existe a possibilidade de fatiamento, diferente das listas que utilizávamos "[:]" para copiar todos os elementos e não ter relação com outra lista, em dicionários existe um método interno, o copy, exemplificado no "aula19_demo3.py".

@@ -1,0 +1,29 @@
+### Uso de Cores no Terminal ###
+
+
+# Padrão ANSI (escape sequence)
+
+Código Padrão
+\033[STYLE;TEXT;BACKm
+    Exemplo:
+    \033[0;33;44m
+
+Style:
+    0 (Sem Estilo)
+    1 (Negrito)
+    4 (Sublinhado)
+    7 (Inverter cor da letra com cor de fundo)
+
+Text:
+    30 (preto)
+    31 (Vermelho)
+    32 (Verde)
+    33 (Amarelo)
+    34 (Azul)
+    35 (Roxo)
+    36 (Ciano)
+    37 (Cinza)
+    97 (branco)
+
+Back:
+    As mesmas cores do 'Text', porém iniciando por 41 até o 47 + o 107 (Branco)

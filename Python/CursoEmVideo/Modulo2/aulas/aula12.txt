@@ -1,0 +1,47 @@
+### Condições Aninhadas ###
+
+# Estrutura
+    SE AÇÃO1
+        CAMINHOS AÇÃO1
+    SENÃO SE AÇÃO2
+        CAMINHOS AÇÃO2
+    SENÃO
+        CAMINHOS ÚLTIMAAÇÃO
+
+# Exemplo prático
+
+    carro.siga()
+
+    if carro.esquerda():
+        carro.siga()
+        carro.direita()
+        carro.siga()
+        carro.direita()
+        carro.esquerda()
+        carro.siga()
+        carro.direita()
+        carro.siga()
+    elif carro.direita():
+        carro.siga()
+        carro.esquerda()
+        carro.siga()
+        carro.esquerda()
+        carro.siga()
+    else:
+        carro.siga()
+
+    carro.pare()
+
+    # Outra possibilidade
+        carro.siga()
+
+        if carro.esquerda():
+            bloco1
+        elif carro.direita():
+            bloco2
+        elif carro.re():
+            bloco3
+        else
+            bloco4
+        
+        carro.pare()

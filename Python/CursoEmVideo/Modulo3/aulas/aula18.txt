@@ -1,0 +1,22 @@
+### Variáveis Compostas ###
+
+Tuplas, listas e dicionários
+    * Strings são consideradas variáveis compostas.
+
+## Listas
+
+# Parte 2
+    Cópias de listas - Listas dentro de listas
+        dados = list()
+        dados.append('Pedro')
+            list[0] = 'Pedro'
+        dados.append(25)
+            list[0] = 'Pedro'
+            list[1] = 25
+
+        pessoas = list()
+        pessoas.append(dados[:])
+        ou
+        pessoas = [['Pedro', 25], ['Maria', 19], ['João', 32]]
+            pessoas[0] = ['Pedro', 25]
+                pessoas[0][0] = 'Pedro'

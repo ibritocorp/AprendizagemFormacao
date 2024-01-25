@@ -1,0 +1,52 @@
+### Funções ###
+
+    Rotinas, tarefas repetitivas, etc...
+        def
+
+## Parte 1
+
+# Funções nativas
+    print()
+    len()
+    input()
+    int()
+    float()
+    ...
+
+# Funções não nativas
+    * Função para criar um cabeçalho
+        Por utilizarmos constantemente (rotina) para a estética dos exercícios, é possível criar uma função que seja utilizada para tal tarefa em vez de a cada exercício ter que reescrver o código.
+            Exemplo 1:
+            def mostraLinha():
+                print(f'{"-":-^50}')
+            
+            mostraLinha()
+            print(f'{"SISTEMA DE ALUNOS":^50}')
+
+            Exemplo 2:
+
+            def mostraCabecalho(titulo):
+                print(f'{"-":-^50}')
+                print(f'{titulo:^50}')
+                print(f'{"-":-^50}')
+
+            mostraCabecalho('SISTEMA DE ALUNOS')
+    
+    * Sempre que for necessário passar valores por parâmetro, esses podem ser na respectiva ordem definida na função, quanto em ordem não organizada, porém nessa segunda opção é necessário definir o valor ao nome qe agurda o parâmetro.
+        Exemplo:
+        
+        def soma(a, b):
+            s = a + b
+            print(s)
+        
+        soma(b=2, a=4)
+
+        # A ordem não impacta, visto ser explictada como na chamada da função, ou seja, o b vai valer 2 e o a vai valer 4 como na chamada da função e assim os valores serão interpretados na função.
+        # Se a função receber mais de um parâmetro e a ordem for alterada sem todos os valores x parâmetros forem explicitados, ocorrerá erro, visto que o python não consegue interpretar os dados.
+    
+    * É possível receber vários parâmetros em uma função através da estrutura abaixo (funcionalidade chamada de desempacotamento):
+        Estrutura que vai receber os valores por parâmetro e nativamente vai definí-los em uma tupla (exemplos mais detalhados em "aula20_demo2" e "aula20_demo5"):
+            def criaTupla (* NOME PARÂMETRO): # Termo "NOME PARÂMETRO" deve ser substituído pelo nome desejado.
+                print(f'A tupla é: {NOME PARÂMETRO}')
+    
+        Estrutura para passar uma lista por parâmetro exemplificada em "aula20_demo3" e "aula20_demo4".

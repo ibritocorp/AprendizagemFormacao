@@ -1,0 +1,57 @@
+### Variáveis Compostas ###
+
+Tuplas, listas e dicionários
+    * Strings são consideradas variáveis compostas.
+
+## Listas
+
+# Parte 1
+    Variável que guarda várias coisas em vários espaços da memória e são identificados por índice (0, 1, 2, 3...).
+        * Tuplas são mutáveis (é possível alterará-las);
+        * Os valores declarados nas Listas estarão entre colchetes;
+        * A operação soma "+" entre Listas junta as mesmas na ordem em que são escritas:
+            x = [1, 3, 5]
+            y = [0, 2, 4]
+            w = x + y -> w = [1, 3, 5, 0, 2, 4]
+            w = y + x -> w = [0, 2, 4, 1, 3, 5]
+        * É possível deletar uma variável, seja ela simples ou composta através da estrutura "del(NOMEVARIÁVEL)";
+        * Quando um variável é igualada a outra lista, qualquer alteração em uma delas reflete na outra:
+            a = [2, 3, 4, 7]
+            b = a
+            b[2] = 8 -> a = [2, 3, 8, 7] | b = [2, 3, 8, 7]
+
+            * Para criar uma cópia de valores que alterações não reflitam é necessário usar a estrutura abaixo:
+                a = [2, 3, 4, 7]
+                b = a[:]
+                b[2] = 8 -> a = [2, 3, 4, 7] | b = [2, 3, 8, 7]
+
+    
+    Em listas é possível utilizar alguns comandos específicos:
+        * Adicionar um elemento ao final da Lista:
+        lanches = ['Hambúrguer', 'Pizza', 'Salgado']
+            lanches.append('Cookies') -> lanches = ['Hambúrguer', 'Pizza', 'Salgado', 'Cookies']
+
+        * Adicionar um elemento novo entre elementos já existentes:
+        lanches = ['Hambúrguer', 'Pizza', 'Salgado', 'Cookies']
+            lanches.insert(0, 'HotDog') -> lanches = ['HotDog', 'Hambúrguer', 'Pizza', 'Salgado', 'Cookies']
+        
+        * Criar uma lista com elementos sequenciais (crescentes ou decrescentes):
+            crescente = list(range(4, 11)) -> crescente = [4, 5, 6, 7, 8, 9, 10, 11]
+            ou
+            crescente = list(range(4, 11, 2)) -> crescente = [4, 6, 8, 10]
+
+            decrescente = list(range(10, 3, -1)) -> decrescente = [10, 9, 8, 7, 6, 5, 4]
+            ou
+            decrescente = list(range(10, 3, -2)) -> decrescente = [10, 8, 6, 4]
+            
+
+        * Deletar um elemento de uma lista:
+        lanches = ['HotDog', 'Hambúrguer', 'Pizza', 'Salgado', 'Cookies']
+            del lanches[3] -> lanches = ['HotDog', 'Hambúrguer', 'Pizza', 'Cookies']
+            lanches.pop(3) -> lanches = ['HotDog', 'Hambúrguer', 'Pizza'] # Método geralmente utilizado para remover o último índice (quando não houver índice dentro dos parênteses)
+            lanches.remove('HotDog') -> ['Hambúrguer', 'Pizza'] # Método utilizado para remover o primeiro índice que contenha o valor passado por parâmetro
+        
+        * Reordenar elementos de uma Lista:
+        valores = [8, 2, 5, 4, 9, 3, 0]
+        valores.sort() -> valores = [0, 2, 3, 4, 5, 8, 9]
+        valores.sort(reverse=True) -> valores = [9, 8, 5, 4, 3, 2, 0]

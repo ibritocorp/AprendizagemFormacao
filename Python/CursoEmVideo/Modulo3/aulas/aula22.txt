@@ -1,0 +1,30 @@
+### Módulos e Pacotes ###
+
+## Modularização
+    * Dividir em partes um código grande
+        Exemplo na demonstração "aula22_demo.py".
+
+# Vantagens
+    * Organização do código;
+    * Aumentar a legibilidade;
+    * Facilitar a compreensão e manutenção;
+    * Ocultação de código detalhado;
+    * Reutilização em outros projetos.
+
+
+## Pacotes
+    * Divisão por assuntos de módulos
+        Pacote "uteis" - Pasta "uteis"
+            Assuntos:
+                numeros - Pasta "numeros"
+                    __init__.py - módulo contendo as funções classificadas como "numeros".
+                datas - Pasta "datas"
+                    __init__.py - módulo contendo as funções classificadas como "datas".
+                strings - Pasta "strings"
+                    __init__.py - módulo contendo as funções classificadas como "strings".
+                cores - Pasta "cores"
+                    __init__.py - módulo contendo as funções classificadas como "cores".
+        
+        Exemplo na demonstração "aula22_demo1.py".
+
+    * Em outras linguagens possui o nome de Bibliotecas

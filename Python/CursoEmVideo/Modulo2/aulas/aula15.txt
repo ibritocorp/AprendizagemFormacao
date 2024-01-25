@@ -1,0 +1,35 @@
+### Estruturas de Repetição ###
+
+Laços, repetições ou iterações
+
+
+## Parte 3
+
+# Estrutura "while"
+    Estrutura de repetição infinita com comando de interrupção.
+
+Algorítmo:
+    enquanto não (maçã)
+        se terra
+            passo
+        se vazio
+            pula
+        se moeda
+            pega
+        se trofeu
+            pula
+            interrompa
+    pega
+
+Exemplo:
+    while true:
+        if chão:
+            passo
+        if buraco:
+            pula
+        if moeda:
+            pega
+        if troféu:
+            pula
+            break
+    pega

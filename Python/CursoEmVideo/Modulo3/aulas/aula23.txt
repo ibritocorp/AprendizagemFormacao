@@ -1,0 +1,58 @@
+### Erros e Exceções ###
+    Erros e exceções são coisas distintas
+
+## Exceções (Exception)
+    * Quando o código está correto e não trata-se de um erro sintático.
+    
+    * Toda exceção é filha de uma classe maior, a classe "Exception".
+
+        Exemplo 1:
+            print(x) -> x não foi inicializado (declarado) para ser impresso na tela, logo, o comando retorna uma exceção "NameError".
+
+        Exemplo 2:
+            n = int(input('Número: ')) -> A entrada da pessoa que utilizará pode ser um número por extenso ou qualquer string que não seja um número inteiro, logo, será retornada a exceção "ValueError".
+        
+        Exemplo 3:
+            r = a / b -> Uma ou as duas entradas de a e/ou b podem ser inválidas (texto, o divisor igual a 0, etc), logo, o retorno será uma exceção como nos exemplos abaixo:
+                Exemplo 3.1:
+                    a = 8
+                    b = 0
+                    r = a / b -> Exceção apresentada será a "ZeroDivisionError", visto que o divisor é igual a 0.
+                
+                Exemplo 3.2:
+                    a = 2
+                    b = 'txt'
+                    r = a / b -> Exceção apresentada será a "TypeError", visto que o divisor é uma string não numérica.
+        
+        Exemplo 4:
+            Listas:
+                lst = [3, 6, 4]
+                print(lst[3]) -> Exceção apresentada será a "IndexError", visto que os índices são 0, 1 e 2, não havendo o índice 3.
+            
+            Dicionários:
+                dicio = {'nome': 'joao', 'idade': 18}
+                print(dicio['peso']) -> Exceção apresentada será a "KeyError", visto não existir a key (chave) "peso".
+
+        Exemplo 5:
+            import MODULONÃOEXISTENTE -> Exceção apresentada será a "ModuleNotFoundError", visto que o módulo não existe.
+
+# Estrutura de comando:
+    Estrutura padrão:
+        try:
+            OPERAÇÃO
+        except:
+            FALHOU
+        else:
+            AÇÃO SE DEU CERTO
+        finally:
+            AÇÃO QUE OCORRERÁ EM QUALQUER OCASIÃO
+        
+        * Estrutura dos comandos "else" e "finally" são opicionais
+        
+        * Um mesmo "try" pode ter vários "except"
+    
+    Estrutura com complementos:
+        * É possível utilizar os parâmetros da exceção como o tipo do erro, a descrição do erro, dentre outros detalhes...
+
+        except Exception as erro:
+            print(f'Problema encontrado foi {erro.__class__}')

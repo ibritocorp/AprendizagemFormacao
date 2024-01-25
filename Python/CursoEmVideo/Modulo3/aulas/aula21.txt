@@ -1,0 +1,110 @@
+### Funções ###
+
+    * Interactive Help
+    * docstrings
+    * Argumentos/Parâmetros opcionais
+    * Escopo de variáveis
+    * Retorno de resultados
+
+## Parte 2
+
+# Interactive Help
+    Função nativa: help()
+    * Executar o comando help() no terminal e a partir dele digitar as funções que deseja saber sobre a documentação
+        O comando "help(FUNÇÃO)" (tocando a palavra FUNÇÃO pela função desejada já exibe a documentação da mesma)
+    
+    * Também é possível através do comando print(input.__doc__)
+
+# docstrings
+    Documentação de funções
+    * Será sempre informado os dados após "def" e deve ser feto nessa estrutura utilizando 03 (três) aspas duplas no início e 03 (três) aspas duplas no fim:
+        def contador(i, f, p):
+            """
+                -> Faz uma contagem e mostra na tela.
+                :param i: início da contagem
+                :param f: fim da contagem
+                :param p: passo da contagem
+                :return: sem Retorno
+            """
+            c=i
+            while c <= f:
+                print(f'{c}', end='..')
+                c += p
+            print('FIM!')
+
+# Argumentos/Parâmetros Opcionais
+    def somar(a, b, c):
+        s = a + b + c
+        print(f'A soma vale {s}')
+    
+    
+    somar(3, 2, 5)
+    somar(8, 4) # Dessa maneira ocorrerá o erro, por isso o uso de Argumentos/Parâmetros Opicionais
+        Nesse caso haverá a definição de valores na primeira linha da função:
+            def somar(a, b, c = 0)
+            * Pode ser um, mais de um ou todos com valores definidos, assim não haveria erro na execução quando faltar um parâmetro na chamada da função.
+                def somar(a = 0, b = 0, c = 0):
+                    """
+                    * Realiza a soma de três valores e imprime o resultado na tela:
+                        :param a: primeiro valor
+                        :param b: segundo valor
+                        :param c: terceiro valor
+                    """
+                    s = a + b + c
+                    print(f'A soma vale {s}')
+
+
+                somar()
+
+# Escopo de Variáveis
+    Detalhamento sobre escopo de variáveis no código da demonstração "aula21_demo.py" e "aula21_demo1.py".
+
+    * Variável Global:
+        # Função teste()
+        def teste():
+            print(f'Na função teste, n vale {n}')
+        
+
+        # Programa Principal
+        n = 2
+        print(f'No Programa Principal, n vale {n}')
+        teste()
+
+        * A variável n é considerada global
+    
+    * Variável Local:
+        # Função teste()
+        def teste():
+            x = 8
+            print(f'Na função teste, n vale {n}')
+            print(f'Na função teste, x vale {x}')
+        
+
+        # Programa Principal
+        n = 2
+        print(f'No Programa Principal, n vale {n}')
+        teste()
+        print(f'No Programa Principal, x vale {x}')
+
+        * A variável x é considerada local, se seguido esse código haverá um erro informando que x não foi definido no Programa Principal.
+
+# Retorno de Resultados/Valores
+    * return
+        def somar(a = 0, b = 0, c = 0):
+            """
+            * Realiza a soma de três valores e imprime o resultado na tela:
+                :param a: primeiro valor
+                :param b: segundo valor
+                :param c: terceiro valor
+            """
+            s = a + b + c
+            return s
+
+
+        print(somar(3, 2, 5)) # Vai apenas imprimir o retorno da função
+
+        resp1 = somar(3, 2, 5)
+        resp2 = somar(1, 7)
+        resp3 = somar(4)
+        print(f'Meus cálculos deram {resp1}, {resp2} e {resp3}')
+        print(f'A soma dos valores somados é {somar(resp1, resp2, resp3)}')

@@ -1,0 +1,15 @@
+### Variáveis Compostas ###
+
+Tuplas, listas e dicionários
+    * Strings são consideradas variáveis compostas.
+
+## Tuplas
+    Variável que guarda várias coisas em vários espaços da memória e são identificados por índice (0, 1, 2, 3...).
+        * Tuplas são imutáveis (não é possível alterará-las);
+        * Os valores declarados nas Tuplas estarão entre parênteses;
+        * A operação soma "+" entre tuplas junta as mesmas na ordem em que são escritas:
+            x = (1, 3, 5)
+            y = (0, 2, 4)
+            w = x + y -> w = (1, 3, 5, 0, 2, 4)
+            w = y + x -> w = (0, 2, 4, 1, 3, 5)
+        * É possível deletar uma variável, seja ela simples ou composta através da estrutura "del(NOMEVARIÁVEL)".

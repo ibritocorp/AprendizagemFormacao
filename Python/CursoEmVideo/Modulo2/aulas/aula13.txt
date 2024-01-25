@@ -1,0 +1,19 @@
+### Estruturas de Repetição ###
+
+Laços, repetições ou iterações
+
+
+## Parte 1
+
+# Estrutura "for"
+    Estrutura de repetição com variável de controle.
+
+Exemplo:
+
+for c in range(0,3):
+    if moeda:
+        pega
+    passo
+    pula
+passo
+pega
