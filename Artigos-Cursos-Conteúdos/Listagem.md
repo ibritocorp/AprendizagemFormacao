@@ -6,7 +6,7 @@ Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encon
 
 ### IA
 
-- [Modelo de Documentação & Curadoria para chatbots](https://www.linkedin.com/posts/geisalves_curadoria-documenta%C3%A7%C3%A3o-para-chatbots-activity-7070019558668943360-3mKI?utm_source=share&utm_medium=member_desktop) - Dicas e um modelo sugerido da Geisa Alves para documentação e curadoria de ChatBots. (Pendente)
+- [Modelo de Documentação & Curadoria para chatbots](https://geisalves.notion.site/geisalves/Modelo-de-Documenta-o-Curadoria-para-chatbots-d9150be06b864440ba7973069fbdf019) - Dicas e um modelo sugerido da Geisa Alves para documentação e curadoria de ChatBots. (Concluído)
 
 ## Conteúdos
 
@@ -26,13 +26,13 @@ Nesta lista, vou manter o controle dos artigos, conteúdos e cursos que eu encon
 
 - [Introdução a IA e Apps Conversacionais](https://academy.blip.ai/course/ia-apps-conversacionais) - Fique por dentro dos principais fundamentos dos apps conversacionais e do contato inteligente, explorando suas características, funcionalidades e como eles estão revolucionando a comunicação entre empresas e clientes. Descubra também a relação entre chatbots e apps conversacionais, a importância da IA conversacional e os benefícios de utilizar canais de mensageria na interação com os usuários. (Concluído)
 
+- [Simplificando a Inteligência Artificial Generativa com a AWS e a Trybe](https://www.youtube.com/watch?v=IdVmqpBkRlk) - Parceria entre a Trybe e a AWS para transmissão da live sobre a IA Generativa da AWS. (Concluído)
+
 - [Os Avanços em Inteligência Artificial](https://videohub.oracle.com/media/t/1_4u23r2m6/158145621?elq_mid=250725&sh=18250918071224120911140131102628&cmid=WWMK230719P00060C00004) - Evento Oracle focado em Inteligência Artificial (IA). Últimas inovações em IA e demonstrações práticas em estudos de caso inspiradores. (Pendente)
 
 - [Minicurso - CHAT GPT](https://www.youtube.com/playlist?list=PLF8aBxuL7OGGFv5SKAn3xvGHRQUfjoBxR) - Curso básico e introdutório com o Ítalo Diego Teotônio sobre o ChatGPT e algumas aplicações da IA Generativa em Análise de Dados. - (Pendente)
 
 - [Minicursos - Comunidade Sétimo Reino IA Brasil](https://www.youtube.com/@comunidadesetimoreinoiabra8608/streams) - Lives com conteúdos sobre IAs Generativas. (Pendente)
-
-- [Simplificando a Inteligência Artificial Generativa com a AWS e a Trybe](https://www.youtube.com/watch?v=IdVmqpBkRlk) - Parceria entre a Trybe e a AWS para transmissão da live sobre a IA Generativa da AWS. (Pendente)
 
 ### Ciência de Dados
 
